@@ -22,7 +22,7 @@ Il est composé de 7 extensions (les 3 premières sont celle d'In-Cité qui ont 
 
 5/ smile_icsoddatastore_rss
 - L'export RSS des jeux de données a été isolé dans une extension particulière.
-- Il comporte maintenant 2 flis RSS : le fil contenant tous les jeux de données et celui ne comportant que ceux que le contributeur BE a choisi de mettre en avant.
+- Il comporte maintenant 2 fils RSS : le fil contenant tous les jeux de données et celui ne comportant que ceux que le contributeur BE a choisi de mettre en avant.
 
 6/ smile_icsoddatastore_license :
 - Validation de la license une et une seule fois par session.
